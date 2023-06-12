@@ -1,7 +1,7 @@
 <template>
   <div>
 
-    <v-carousel class="p" v-model="model" cycle :show-arrows="false" hide-delimiter-background>
+    <v-carousel class="" v-model="model" cycle :show-arrows="false" hide-delimiter-background height="500">
       <v-carousel-item class="tw-bg-to bg-color-banner tw-opacity-90" v-for="(item, i) in items" :key="i" :src="item.src"
         cover>
         <!--       <div class="tw-flex tw-flex-col tw-justify-center tw-items-center tw-p-12 tw-mt-24 tw-mx-8 tw-rounded-lg tw-shadow-lg bg-color-banner">
@@ -40,7 +40,7 @@
 
         <div>
 
-          <v-img class="tw-rounded-lg tw-shadow-2xl"
+          <v-img class="tw-rounded-lg tw-shadow-2xl tw-shadow-orange-600 tw-cursor-pointer"
             src="https://img.freepik.com/free-photo/close-up-attractive-carefree-young-woman-sitting-floor_273609-35105.jpg?w=740&t=st=1686560978~exp=1686561578~hmac=2393967ab8379b6651770d9930e8115ce4bbb516d452395781110fc7dd3c7a0e"
             width="500px"></v-img>
         </div>

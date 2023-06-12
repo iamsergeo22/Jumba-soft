@@ -37,10 +37,10 @@
               class="text-black font-medium	hover:text-orange-800 text-md hover:no-underline">Projects</nuxt-link>
           </li>
 
-          <li @click="closeMenu">
+         <!--  <li @click="closeMenu">
             <nuxt-link to="/contact" :class="$route.path === '/contact' ? 'active' : ''"
               class="text-black font-medium	hover:text-orange-800 text-md hover:no-underline">Contact</nuxt-link>
-          </li>
+          </li> -->
           <div class="lg:tw-hidden tw-block" @click="closeMenu">
           <button @click="$router.push('/contact')"
             class="tw-group tw-relative tw-border-2 tw-h-12 tw-cursor-pointer hover:tw-transform hover:tw-translate-x-2 hover:tw-transition-transform hover:tw-duration-300 hover:tw-shadow-orange-600 tw-border hover:tw-shadow-lg tw-w-48 tw-overflow-hidden tw-rounded-lg tw-bg-white tw-text-lg tw-shadow-2xl">

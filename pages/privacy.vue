@@ -2,14 +2,14 @@
 
   <div class="">
     <div class="tw-relative tw-w-full tw-h-72">
-      <img class="tw-absolute tw-top-0 tw-left-0 tw-w-full tw-h-full tw-object-cover" src="https://dotterra.netlify.app/static/media/soil.535488db91bb4bf12239.jpg"
-        alt="Image">
-        <div
+      <img class="tw-absolute tw-top-0 tw-left-0 tw-w-full tw-h-full tw-object-cover"
+        src="../assets/high-angle-woman-holding-smartphone.jpg"
+        alt="Banner Image">
+      <div
         class="tw-relative tw-w-full tw-h-full tw-flex tw-flex-col tw-justify-center tw-items-center tw-bg-gray-900 tw-bg-opacity-60">
-        <h1 class="lg:tw-text-4xl tw-text-2xl tw-font-bold tw-text-white" data-aos="fade-up">Privay Policy</h1>
+        <h1 class="tw-text-4xl tw-font-bold tw-text-white" data-aos="fade-up">Privacy Policy</h1>
       </div>
     </div>
-
 
     <div class="tw-flex tw-items-center tw-space-x-2 tw-px-8">
       <v-breadcrumbs :items="breadcrumbItems" divider="/" class="tw-text-lg tw-font-extrabold"></v-breadcrumbs>

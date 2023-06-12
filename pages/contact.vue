@@ -172,9 +172,9 @@
 
 
           </div>
-          <v-img class="tw-rounded-lg tw-shadow-2xl tw-mt-4"
-            src="https://dotterra.netlify.app/static/media/soil.535488db91bb4bf12239.jpg"
-            width="400px"></v-img>
+            <v-img class="tw-rounded-lg tw-shadow-2xl tw-mt-4"
+            src="https://img.freepik.com/free-photo/close-up-attractive-carefree-young-woman-sitting-floor_273609-35105.jpg?w=740&t=st=1686560978~exp=1686561578~hmac=2393967ab8379b6651770d9930e8115ce4bbb516d452395781110fc7dd3c7a0e"
+            width="550px"></v-img>
 
         </div>
 
