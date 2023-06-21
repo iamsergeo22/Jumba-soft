@@ -289,7 +289,7 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Poppins&display=swap');
 
 footer {
-  background-image: url(https://dotterra.netlify.app/static/media/soil.535488db91bb4bf12239.jpg);
+  background-image: url(https://img.freepik.com/premium-photo/ambitious-business-man-climbing-stairs-success_31965-3080.jpg?w=740);
   background-size: cover;
 }
 

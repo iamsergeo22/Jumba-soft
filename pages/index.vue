@@ -19,21 +19,27 @@
     <section class="tw-bg-white lg:tw-p-12 tw-pb-12 tw-px-8 tw-py-8 tw-mb-4">
 
       <div class="tw-p-4 tw-mt-12 tw-flex lg:tw-flex-row tw-flex-col tw-gap-12 tw-justify-between">
-        <div class="">
-          <h1 class="lg:tw-text-6xl text-color tw-text-3xl tw-font-extrabold tw-text-black" data-aos="fade-up">
+        <div class="lg:tw-w-3/4">
+          <h1 class="lg:tw-text-6xl text-color tw-text-4xl tw-font-extrabold" data-aos="fade-up">
             Who we are?
-
           </h1>
+          <hr class="lg:tw-w-48 tw-w-24 tw-h-2 bg-color tw-my-2" data-aos="fade-up">
 
-          <p class="tw-mt-4 tw-flex lg:tw-flex-row tw-flex-col tw-gap-8 tw-justify-between" data-aos="fade-up">
+
+          <p class="tw-mt-4 tw-text-justify" data-aos="fade-up">
 
 
-            <span class=" tw-text-justify lg:tw-w-3/4">
-
-              DotTerra is a pioneering technology company focused on empowering farmers to optimize their crop yields and
-              profitability, all while prioritizing resource efficiency. Our innovative solutions are poised to make a
-              significant impact in the agricultural industry and will be launching in the market very soon. </span>
-
+            <span class="tw-text-justify  tw-mb-4">
+              JumbaSoft is an innovative organization that focuses on empowering businesses with advanced digital
+              marketing strategies and revolutionary web development solutions. We are dedicated to delivering measurable
+              and impactful results, helping our valued clients exceed their goals in the ever-changing digital landscape.
+            </span>
+            <br>
+            <br>
+            <span class="tw-mt-3 tw-text-justify">
+              JumbaSoft combines cutting-edge technology with extensive industry knowledge to deliver customized and
+              innovative solutions that address the specific requirements of every client.
+            </span>
           </p>
 
         </div>
@@ -54,13 +60,13 @@
 
 
     <section class="tw-bg-gray-100 tw-py-12">
-      <div class="tw-max-w-7xl tw-mx-auto tw-px-4 tw-sm:px-6 tw-lg:px-8">
+      <div class="tw-max-w-7xl tw-mx-auto tw-px-4 tw-sm:px-6 lg:tw-px-8">
         <div class="tw-lg:text-center">
 
-          <p
-            class="tw-mt-2 lg:tw-text-6xl tw-text-3xl tw-leading-8 tw-font-extrabold tw-tracking-tight text-color tw-sm:text-4xl">
+          <h1 class="tw-mt-2 lg:tw-text-6xl tw-text-4xl tw-leading-8 tw-font-extrabold text-color" data-aos="fade-up">
             Our Team
-          </p>
+          </h1>
+          <hr class="lg:tw-w-48 tw-w-24 tw-h-2 bg-color tw-my-2" data-aos="fade-up">
         </div>
 
         <div class="tw-mt-10">
@@ -69,33 +75,104 @@
             <div class="tw-bg-white tw-overflow-hidden tw-shadow tw-rounded-lg">
               <div class="tw-px-4 tw-py-5 tw-sm:p-6">
                 <img class="tw-mx-auto tw-h-48 tw-w-48 tw-rounded-full" src="../assets/joeltassiga.jpeg" alt="">
-                <h3 class="tw-mt-6 tw-text-center tw-font-bold tw-text-xl tw-leading-9 tw-font-medium tw-text-gray-900">
+                <h3 class="tw-mt-6 tw-text-center tw-font-extrabold tw-text-xl tw-text-black">
                   Massama-Joel TASSIGA
                 </h3>
-                <div class="tw-mt-2 tw-text-center tw-text-sm tw-leading-5 tw-text-gray-600">
-                  <p>Founder</p>
-                  <p class="tw-mt-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                  <div class="tw-flex tw-justify-center tw-space-x-4">
+                <div>
+                  <p class="tw-mt-2 tw-text-center tw-text-md tw-font-bold text-color">Founder and CEO</p>
+                  <p class="tw-mt-1 tw-text-justify tw-text-sm tw-text-gray-900">
+                    Massama Massama-Joel TASSIGA is a versatile digital marketer and web developer with a diverse skill
+                    set. Alongside my expertise in web development, I have a talent for event planning and possess strong
+                    critical thinking abilities. I have experience in front-end development, as well as
+                    utilizing MS Excel and PowerPoint for data analysis and presentations.
+                  </p>
+                  <div class="tw-flex tw-justify-center tw-space-x-4 tw-mt-4">
 
-                    <li>
-                      <a href="https://twitter.com/STassiga" target="_blank"
-                        class="tw-text-orange-600 tw-hover:text-orange-400">
-                        <svg width="20" height="17" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                          <path
-                            d="M19.807 1.943a8.588 8.588 0 0 1-2.036 2.135 11.918 11.918 0 0 1-.465 3.854 12.085 12.085 0 0 1-1.452 3.177 12.426 12.426 0 0 1-2.318 2.691c-.897.78-1.978 1.402-3.243 1.867-1.265.464-2.618.697-4.06.697-2.27 0-4.348-.618-6.233-1.854.293.034.62.051.98.051 1.885 0 3.565-.588 5.04-1.764a3.915 3.915 0 0 1-2.363-.825 4.038 4.038 0 0 1-1.432-2.039c.276.043.532.064.766.064.36 0 .717-.047 1.068-.14A3.982 3.982 0 0 1 1.73 8.43c-.617-.754-.925-1.63-.925-2.627v-.051c.57.324 1.182.498 1.835.524a4.1 4.1 0.
-                        0 0 1 2.57-.215 3.738-1.526a7.965 7.965 0 0 0 2.595-6.046v-.102a4.074 4.074 0 0 0-1.837-.356z" />
-                        </svg>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://www.linkedin.com/in/stassiga/" target="_blank"
-                        class="tw-text-orange-600 tw-hover:text-orange-400">
-                        <svg width="20" height="20" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                          <path
-                            d="M18 2h-4.586c-.677 0-1.27.266-1.719.719l-.703.703c-.453.453-.719 1.046-.719 1.723v5.172c0 .677.266 1.27.719 1.723l.703.703c.453.453 1.046.719 1.723.719h4.172c.677 0 1.27-.266 1.723-.719l.703-.703c.453-.453.719-1.046.719-1.723v-5.172c0-.677-.266-1.27-.719-1.723l-.703-.703c-.453-.453-1.046-.719-1.723-.719zm-3 2c.552 0 1 .448 1 1v3h-2v-3c0-.552.448-1 1-1zm-4.891.094c-.35.012-.694.125-1.012.344s-.574.531-.625.938v4.625c.031.398.219.766.531 1.062s.637.453 1.031.469h.031c.35-.012.694-.125 1.012-.344s.574-.531.625-.938v-4.625c-.031-.398-.219-.766-.531-1.062s-.637-.453-1.031-.469h-.031zm-5.125.438c-.554 0-1 .446-1 1v4.25c0 .552.446 1 1 1h.281c.258.45.688.781 1.219.781.665 0 1.2-.535 1.219-1.188v-4.125c0-.554-.446-1-1-1h-.281c-.258-.45-.688-.781-1.219-.781zm0 0" />
-                        </svg>
-                      </a>
-                    </li>
+                    <ul class="tw-flex tw-items-center tw-gap-4">
+                      <li>
+                        <a href="https://www.linkedin.com/in/angela-daniela-koroma-204228218/" target="_blank"
+                          class="tw-text-white">
+                          <svg width="24" height="24" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="none">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <path fill="#0A66C2"
+                                d="M12.225 12.225h-1.778V9.44c0-.664-.012-1.519-.925-1.519-.926 0-1.068.724-1.068 1.47v2.834H6.676V6.498h1.707v.783h.024c.348-.594.996-.95 1.684-.925 1.802 0 2.135 1.185 2.135 2.728l-.001 3.14zM4.67 5.715a1.037 1.037 0 01-1.032-1.031c0-.566.466-1.032 1.032-1.032.566 0 1.031.466 1.032 1.032 0 .566-.466 1.032-1.032 1.032zm.889 6.51h-1.78V6.498h1.78v5.727zM13.11 2H2.885A.88.88 0 002 2.866v10.268a.88.88 0 00.885.866h10.226a.882.882 0 00.889-.866V2.865a.88.88 0 00-.889-.864z">
+                              </path>
+                            </g>
+                          </svg> </a>
+                      </li>
+
+                      <li>
+                        <a href="https://twitter.com/DanielaKoroma" target="_blank" class="tw-text-white">
+                          <svg width="24" height="24" viewBox="0 -4 48 48" version="1.1"
+                            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <title>Twitter-color</title>
+                              <desc>Created with Sketch.</desc>
+                              <defs> </defs>
+                              <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <g id="Color-" transform="translate(-300.000000, -164.000000)" fill="#00AAEC">
+                                  <path
+                                    d="M348,168.735283 C346.236309,169.538462 344.337383,170.081618 342.345483,170.324305 C344.379644,169.076201 345.940482,167.097147 346.675823,164.739617 C344.771263,165.895269 342.666667,166.736006 340.418384,167.18671 C338.626519,165.224991 336.065504,164 333.231203,164 C327.796443,164 323.387216,168.521488 323.387216,174.097508 C323.387216,174.88913 323.471738,175.657638 323.640782,176.397255 C315.456242,175.975442 308.201444,171.959552 303.341433,165.843265 C302.493397,167.339834 302.008804,169.076201 302.008804,170.925244 C302.008804,174.426869 303.747139,177.518238 306.389857,179.329722 C304.778306,179.280607 303.256911,178.821235 301.9271,178.070061 L301.9271,178.194294 C301.9271,183.08848 305.322064,187.17082 309.8299,188.095341 C309.004402,188.33225 308.133826,188.450704 307.235077,188.450704 C306.601162,188.450704 305.981335,188.390033 305.381229,188.271578 C306.634971,192.28169 310.269414,195.2026 314.580032,195.280607 C311.210424,197.99061 306.961789,199.605634 302.349709,199.605634 C301.555203,199.605634 300.769149,199.559408 300,199.466956 C304.358514,202.327194 309.53689,204 315.095615,204 C333.211481,204 343.114633,188.615385 343.114633,175.270495 C343.114633,174.831347 343.106181,174.392199 343.089276,173.961719 C345.013559,172.537378 346.684275,170.760563 348,168.735283"
+                                    id="Twitter"> </path>
+                                </g>
+                              </g>
+                            </g>
+                          </svg>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="https://www.instagram.com/angela.daniela02/" target="_blank" class="tw-text-white">
+                          <svg width="24" height="24" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <rect x="2" y="2" width="28" height="28" rx="6" fill="url(#paint0_radial_87_7153)"></rect>
+                              <rect x="2" y="2" width="28" height="28" rx="6" fill="url(#paint1_radial_87_7153)"></rect>
+                              <rect x="2" y="2" width="28" height="28" rx="6" fill="url(#paint2_radial_87_7153)"></rect>
+                              <path
+                                d="M23 10.5C23 11.3284 22.3284 12 21.5 12C20.6716 12 20 11.3284 20 10.5C20 9.67157 20.6716 9 21.5 9C22.3284 9 23 9.67157 23 10.5Z"
+                                fill="white"></path>
+                              <path fill-rule="evenodd" clip-rule="evenodd"
+                                d="M16 21C18.7614 21 21 18.7614 21 16C21 13.2386 18.7614 11 16 11C13.2386 11 11 13.2386 11 16C11 18.7614 13.2386 21 16 21ZM16 19C17.6569 19 19 17.6569 19 16C19 14.3431 17.6569 13 16 13C14.3431 13 13 14.3431 13 16C13 17.6569 14.3431 19 16 19Z"
+                                fill="white"></path>
+                              <path fill-rule="evenodd" clip-rule="evenodd"
+                                d="M6 15.6C6 12.2397 6 10.5595 6.65396 9.27606C7.2292 8.14708 8.14708 7.2292 9.27606 6.65396C10.5595 6 12.2397 6 15.6 6H16.4C19.7603 6 21.4405 6 22.7239 6.65396C23.8529 7.2292 24.7708 8.14708 25.346 9.27606C26 10.5595 26 12.2397 26 15.6V16.4C26 19.7603 26 21.4405 25.346 22.7239C24.7708 23.8529 23.8529 24.7708 22.7239 25.346C21.4405 26 19.7603 26 16.4 26H15.6C12.2397 26 10.5595 26 9.27606 25.346C8.14708 24.7708 7.2292 23.8529 6.65396 22.7239C6 21.4405 6 19.7603 6 16.4V15.6ZM15.6 8H16.4C18.1132 8 19.2777 8.00156 20.1779 8.0751C21.0548 8.14674 21.5032 8.27659 21.816 8.43597C22.5686 8.81947 23.1805 9.43139 23.564 10.184C23.7234 10.4968 23.8533 10.9452 23.9249 11.8221C23.9984 12.7223 24 13.8868 24 15.6V16.4C24 18.1132 23.9984 19.2777 23.9249 20.1779C23.8533 21.0548 23.7234 21.5032 23.564 21.816C23.1805 22.5686 22.5686 23.1805 21.816 23.564C21.5032 23.7234 21.0548 23.8533 20.1779 23.9249C19.2777 23.9984 18.1132 24 16.4 24H15.6C13.8868 24 12.7223 23.9984 11.8221 23.9249C10.9452 23.8533 10.4968 23.7234 10.184 23.564C9.43139 23.1805 8.81947 22.5686 8.43597 21.816C8.27659 21.5032 8.14674 21.0548 8.0751 20.1779C8.00156 19.2777 8 18.1132 8 16.4V15.6C8 13.8868 8.00156 12.7223 8.0751 11.8221C8.14674 10.9452 8.27659 10.4968 8.43597 10.184C8.81947 9.43139 9.43139 8.81947 10.184 8.43597C10.4968 8.27659 10.9452 8.14674 11.8221 8.0751C12.7223 8.00156 13.8868 8 15.6 8Z"
+                                fill="white"></path>
+                              <defs>
+                                <radialGradient id="paint0_radial_87_7153" cx="0" cy="0" r="1"
+                                  gradientUnits="userSpaceOnUse"
+                                  gradientTransform="translate(12 23) rotate(-55.3758) scale(25.5196)">
+                                  <stop stop-color="#B13589"></stop>
+                                  <stop offset="0.79309" stop-color="#C62F94"></stop>
+                                  <stop offset="1" stop-color="#8A3AC8"></stop>
+                                </radialGradient>
+                                <radialGradient id="paint1_radial_87_7153" cx="0" cy="0" r="1"
+                                  gradientUnits="userSpaceOnUse"
+                                  gradientTransform="translate(11 31) rotate(-65.1363) scale(22.5942)">
+                                  <stop stop-color="#E0E8B7"></stop>
+                                  <stop offset="0.444662" stop-color="#FB8A2E"></stop>
+                                  <stop offset="0.71474" stop-color="#E2425C"></stop>
+                                  <stop offset="1" stop-color="#E2425C" stop-opacity="0"></stop>
+                                </radialGradient>
+                                <radialGradient id="paint2_radial_87_7153" cx="0" cy="0" r="1"
+                                  gradientUnits="userSpaceOnUse"
+                                  gradientTransform="translate(0.500002 3) rotate(-8.1301) scale(38.8909 8.31836)">
+                                  <stop offset="0.156701" stop-color="#406ADC"></stop>
+                                  <stop offset="0.467799" stop-color="#6A45BE"></stop>
+                                  <stop offset="1" stop-color="#6A45BE" stop-opacity="0"></stop>
+                                </radialGradient>
+                              </defs>
+                            </g>
+                          </svg>
+                        </a>
+                      </li>
+
+                    </ul>
                   </div>
                 </div>
               </div>
@@ -105,33 +182,104 @@
             <div class="tw-bg-white tw-overflow-hidden tw-shadow tw-rounded-lg">
               <div class="tw-px-4 tw-py-5 tw-sm:p-6">
                 <img class="tw-mx-auto tw-h-48 tw-w-48 tw-rounded-full" src="../assets/sergetassiga.jpg" alt="">
-                <h3 class="tw-mt-6 tw-text-center tw-font-bold tw-text-xl tw-leading-9 tw-font-medium tw-text-gray-900">
-                  Serge Anan TASSIGA
+                <h3 class="tw-mt-6 tw-text-center tw-font-extrabold tw-text-xl tw-text-black">
+                  Serge TASSIGA
                 </h3>
-                <div class="tw-mt-2 tw-text-center tw-text-sm tw-leading-5 tw-text-gray-600">
-                  <p>CTO</p>
-                  <p class="tw-mt-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                  <div class="tw-flex tw-justify-center tw-gap-8">
+                <div>
+                  <p class="tw-mt-2 tw-text-center tw-text-md tw-font-bold text-color">CTO</p>
+                  <p class="tw-mt-1 tw-text-justify tw-text-sm tw-text-gray-900">
+                    Serge Tassiga is a talented Frontend Developer with a strong background in creating visually appealing
+                    and user-friendly web applications. I have extensive expertise in HTML, CSS, JavaScript, NuxtJs,
+                    TailwindCSS, and Vuetify. With these skills, I can design responsive websites that effortlessly adapt
+                    to different screen sizes.
+                  </p>
+                  <div class="tw-flex tw-justify-center tw-gap-8 tw-mt-4">
 
-                    <li>
-                      <a href="https://twitter.com/STassiga" target="_blank"
-                        class="tw-text-orange-600 hover:tw-text-orange-400">
-                        <svg width="20" height="17" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                          <path
-                            d="M19.807 1.943a8.588 8.588 0 0 1-2.036 2.135 11.918 11.918 0 0 1-.465 3.854 12.085 12.085 0 0 1-1.452 3.177 12.426 12.426 0 0 1-2.318 2.691c-.897.78-1.978 1.402-3.243 1.867-1.265.464-2.618.697-4.06.697-2.27 0-4.348-.618-6.233-1.854.293.034.62.051.98.051 1.885 0 3.565-.588 5.04-1.764a3.915 3.915 0 0 1-2.363-.825 4.038 4.038 0 0 1-1.432-2.039c.276.043.532.064.766.064.36 0 .717-.047 1.068-.14A3.982 3.982 0 0 1 1.73 8.43c-.617-.754-.925-1.63-.925-2.627v-.051c.57.324 1.182.498 1.835.524a4.1 4.1 0.
-                        0 0 1 2.57-.215 3.738-1.526a7.965 7.965 0 0 0 2.595-6.046v-.102a4.074 4.074 0 0 0-1.837-.356z" />
-                        </svg>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://www.linkedin.com/in/stassiga/" target="_blank"
-                        class="tw-text-orange-600 hover:tw-text-orange-400">
-                        <svg width="20" height="20" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                          <path
-                            d="M18 2h-4.586c-.677 0-1.27.266-1.719.719l-.703.703c-.453.453-.719 1.046-.719 1.723v5.172c0 .677.266 1.27.719 1.723l.703.703c.453.453 1.046.719 1.723.719h4.172c.677 0 1.27-.266 1.723-.719l.703-.703c.453-.453.719-1.046.719-1.723v-5.172c0-.677-.266-1.27-.719-1.723l-.703-.703c-.453-.453-1.046-.719-1.723-.719zm-3 2c.552 0 1 .448 1 1v3h-2v-3c0-.552.448-1 1-1zm-4.891.094c-.35.012-.694.125-1.012.344s-.574.531-.625.938v4.625c.031.398.219.766.531 1.062s.637.453 1.031.469h.031c.35-.012.694-.125 1.012-.344s.574-.531.625-.938v-4.625c-.031-.398-.219-.766-.531-1.062s-.637-.453-1.031-.469h-.031zm-5.125.438c-.554 0-1 .446-1 1v4.25c0 .552.446 1 1 1h.281c.258.45.688.781 1.219.781.665 0 1.2-.535 1.219-1.188v-4.125c0-.554-.446-1-1-1h-.281c-.258-.45-.688-.781-1.219-.781zm0 0" />
-                        </svg>
-                      </a>
-                    </li>
+                    <ul class="tw-flex tw-items-center tw-gap-4">
+                      <li>
+                        <a href="https://www.linkedin.com/in/angela-daniela-koroma-204228218/" target="_blank"
+                          class="tw-text-white">
+                          <svg width="24" height="24" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="none">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <path fill="#0A66C2"
+                                d="M12.225 12.225h-1.778V9.44c0-.664-.012-1.519-.925-1.519-.926 0-1.068.724-1.068 1.47v2.834H6.676V6.498h1.707v.783h.024c.348-.594.996-.95 1.684-.925 1.802 0 2.135 1.185 2.135 2.728l-.001 3.14zM4.67 5.715a1.037 1.037 0 01-1.032-1.031c0-.566.466-1.032 1.032-1.032.566 0 1.031.466 1.032 1.032 0 .566-.466 1.032-1.032 1.032zm.889 6.51h-1.78V6.498h1.78v5.727zM13.11 2H2.885A.88.88 0 002 2.866v10.268a.88.88 0 00.885.866h10.226a.882.882 0 00.889-.866V2.865a.88.88 0 00-.889-.864z">
+                              </path>
+                            </g>
+                          </svg> </a>
+                      </li>
+
+                      <li>
+                        <a href="https://twitter.com/DanielaKoroma" target="_blank" class="tw-text-white">
+                          <svg width="24" height="24" viewBox="0 -4 48 48" version="1.1"
+                            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <title>Twitter-color</title>
+                              <desc>Created with Sketch.</desc>
+                              <defs> </defs>
+                              <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <g id="Color-" transform="translate(-300.000000, -164.000000)" fill="#00AAEC">
+                                  <path
+                                    d="M348,168.735283 C346.236309,169.538462 344.337383,170.081618 342.345483,170.324305 C344.379644,169.076201 345.940482,167.097147 346.675823,164.739617 C344.771263,165.895269 342.666667,166.736006 340.418384,167.18671 C338.626519,165.224991 336.065504,164 333.231203,164 C327.796443,164 323.387216,168.521488 323.387216,174.097508 C323.387216,174.88913 323.471738,175.657638 323.640782,176.397255 C315.456242,175.975442 308.201444,171.959552 303.341433,165.843265 C302.493397,167.339834 302.008804,169.076201 302.008804,170.925244 C302.008804,174.426869 303.747139,177.518238 306.389857,179.329722 C304.778306,179.280607 303.256911,178.821235 301.9271,178.070061 L301.9271,178.194294 C301.9271,183.08848 305.322064,187.17082 309.8299,188.095341 C309.004402,188.33225 308.133826,188.450704 307.235077,188.450704 C306.601162,188.450704 305.981335,188.390033 305.381229,188.271578 C306.634971,192.28169 310.269414,195.2026 314.580032,195.280607 C311.210424,197.99061 306.961789,199.605634 302.349709,199.605634 C301.555203,199.605634 300.769149,199.559408 300,199.466956 C304.358514,202.327194 309.53689,204 315.095615,204 C333.211481,204 343.114633,188.615385 343.114633,175.270495 C343.114633,174.831347 343.106181,174.392199 343.089276,173.961719 C345.013559,172.537378 346.684275,170.760563 348,168.735283"
+                                    id="Twitter"> </path>
+                                </g>
+                              </g>
+                            </g>
+                          </svg>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="https://www.instagram.com/angela.daniela02/" target="_blank" class="tw-text-white">
+                          <svg width="24" height="24" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <rect x="2" y="2" width="28" height="28" rx="6" fill="url(#paint0_radial_87_7153)"></rect>
+                              <rect x="2" y="2" width="28" height="28" rx="6" fill="url(#paint1_radial_87_7153)"></rect>
+                              <rect x="2" y="2" width="28" height="28" rx="6" fill="url(#paint2_radial_87_7153)"></rect>
+                              <path
+                                d="M23 10.5C23 11.3284 22.3284 12 21.5 12C20.6716 12 20 11.3284 20 10.5C20 9.67157 20.6716 9 21.5 9C22.3284 9 23 9.67157 23 10.5Z"
+                                fill="white"></path>
+                              <path fill-rule="evenodd" clip-rule="evenodd"
+                                d="M16 21C18.7614 21 21 18.7614 21 16C21 13.2386 18.7614 11 16 11C13.2386 11 11 13.2386 11 16C11 18.7614 13.2386 21 16 21ZM16 19C17.6569 19 19 17.6569 19 16C19 14.3431 17.6569 13 16 13C14.3431 13 13 14.3431 13 16C13 17.6569 14.3431 19 16 19Z"
+                                fill="white"></path>
+                              <path fill-rule="evenodd" clip-rule="evenodd"
+                                d="M6 15.6C6 12.2397 6 10.5595 6.65396 9.27606C7.2292 8.14708 8.14708 7.2292 9.27606 6.65396C10.5595 6 12.2397 6 15.6 6H16.4C19.7603 6 21.4405 6 22.7239 6.65396C23.8529 7.2292 24.7708 8.14708 25.346 9.27606C26 10.5595 26 12.2397 26 15.6V16.4C26 19.7603 26 21.4405 25.346 22.7239C24.7708 23.8529 23.8529 24.7708 22.7239 25.346C21.4405 26 19.7603 26 16.4 26H15.6C12.2397 26 10.5595 26 9.27606 25.346C8.14708 24.7708 7.2292 23.8529 6.65396 22.7239C6 21.4405 6 19.7603 6 16.4V15.6ZM15.6 8H16.4C18.1132 8 19.2777 8.00156 20.1779 8.0751C21.0548 8.14674 21.5032 8.27659 21.816 8.43597C22.5686 8.81947 23.1805 9.43139 23.564 10.184C23.7234 10.4968 23.8533 10.9452 23.9249 11.8221C23.9984 12.7223 24 13.8868 24 15.6V16.4C24 18.1132 23.9984 19.2777 23.9249 20.1779C23.8533 21.0548 23.7234 21.5032 23.564 21.816C23.1805 22.5686 22.5686 23.1805 21.816 23.564C21.5032 23.7234 21.0548 23.8533 20.1779 23.9249C19.2777 23.9984 18.1132 24 16.4 24H15.6C13.8868 24 12.7223 23.9984 11.8221 23.9249C10.9452 23.8533 10.4968 23.7234 10.184 23.564C9.43139 23.1805 8.81947 22.5686 8.43597 21.816C8.27659 21.5032 8.14674 21.0548 8.0751 20.1779C8.00156 19.2777 8 18.1132 8 16.4V15.6C8 13.8868 8.00156 12.7223 8.0751 11.8221C8.14674 10.9452 8.27659 10.4968 8.43597 10.184C8.81947 9.43139 9.43139 8.81947 10.184 8.43597C10.4968 8.27659 10.9452 8.14674 11.8221 8.0751C12.7223 8.00156 13.8868 8 15.6 8Z"
+                                fill="white"></path>
+                              <defs>
+                                <radialGradient id="paint0_radial_87_7153" cx="0" cy="0" r="1"
+                                  gradientUnits="userSpaceOnUse"
+                                  gradientTransform="translate(12 23) rotate(-55.3758) scale(25.5196)">
+                                  <stop stop-color="#B13589"></stop>
+                                  <stop offset="0.79309" stop-color="#C62F94"></stop>
+                                  <stop offset="1" stop-color="#8A3AC8"></stop>
+                                </radialGradient>
+                                <radialGradient id="paint1_radial_87_7153" cx="0" cy="0" r="1"
+                                  gradientUnits="userSpaceOnUse"
+                                  gradientTransform="translate(11 31) rotate(-65.1363) scale(22.5942)">
+                                  <stop stop-color="#E0E8B7"></stop>
+                                  <stop offset="0.444662" stop-color="#FB8A2E"></stop>
+                                  <stop offset="0.71474" stop-color="#E2425C"></stop>
+                                  <stop offset="1" stop-color="#E2425C" stop-opacity="0"></stop>
+                                </radialGradient>
+                                <radialGradient id="paint2_radial_87_7153" cx="0" cy="0" r="1"
+                                  gradientUnits="userSpaceOnUse"
+                                  gradientTransform="translate(0.500002 3) rotate(-8.1301) scale(38.8909 8.31836)">
+                                  <stop offset="0.156701" stop-color="#406ADC"></stop>
+                                  <stop offset="0.467799" stop-color="#6A45BE"></stop>
+                                  <stop offset="1" stop-color="#6A45BE" stop-opacity="0"></stop>
+                                </radialGradient>
+                              </defs>
+                            </g>
+                          </svg>
+                        </a>
+                      </li>
+
+                    </ul>
                   </div>
                 </div>
               </div>
@@ -140,33 +288,104 @@
             <div class="tw-bg-white tw-overflow-hidden tw-shadow tw-rounded-lg">
               <div class="tw-px-4 tw-py-5 tw-sm:p-6">
                 <img class="tw-mx-auto tw-h-48 tw-w-48 tw-rounded-full" src="../assets/joeltassiga.jpeg" alt="">
-                <h3 class="tw-mt-6 tw-text-center tw-font-bold tw-text-xl tw-leading-9 tw-font-medium tw-text-gray-900">
+                <h3 class="tw-mt-6 tw-text-center tw-font-extrabold tw-text-xl tw-text-black">
                   Daniel AGOSSOU
                 </h3>
-                <div class="tw-mt-2 tw-text-center tw-text-sm tw-leading-5 tw-text-gray-600">
-                  <p>UI/UX Designer</p>
-                  <p class="tw-mt-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                  <div class="tw-flex tw-justify-center tw-space-x-4">
+                <div>
+                  <p class="tw-mt-2 tw-text-center tw-text-md tw-font-bold text-color">UI/UX Designer</p>
+                  <p class="tw-mt-1 tw-text-sm tw-text-gray-900">
+                    Serge Tassiga is a talented Frontend Developer with a strong background in creating visually appealing
+                    and user-friendly web applications. I have extensive expertise in HTML, CSS, JavaScript, NuxtJs,
+                    TailwindCSS, and Vuetify. With these skills, I can design responsive websites that effortlessly adapt
+                    to different screen sizes.
+                  </p>
+                  <div class="tw-flex tw-justify-center tw-space-x-4 tw=mt-4">
+                    <ul class="tw-flex tw-items-center tw-gap-4">
+                      <li>
+                        <a href="https://www.linkedin.com/in/angela-daniela-koroma-204228218/" target="_blank"
+                          class="tw-text-white">
+                          <svg width="24" height="24" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="none">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <path fill="#0A66C2"
+                                d="M12.225 12.225h-1.778V9.44c0-.664-.012-1.519-.925-1.519-.926 0-1.068.724-1.068 1.47v2.834H6.676V6.498h1.707v.783h.024c.348-.594.996-.95 1.684-.925 1.802 0 2.135 1.185 2.135 2.728l-.001 3.14zM4.67 5.715a1.037 1.037 0 01-1.032-1.031c0-.566.466-1.032 1.032-1.032.566 0 1.031.466 1.032 1.032 0 .566-.466 1.032-1.032 1.032zm.889 6.51h-1.78V6.498h1.78v5.727zM13.11 2H2.885A.88.88 0 002 2.866v10.268a.88.88 0 00.885.866h10.226a.882.882 0 00.889-.866V2.865a.88.88 0 00-.889-.864z">
+                              </path>
+                            </g>
+                          </svg> </a>
+                      </li>
 
-                    <li>
-                      <a href="https://twitter.com/STassiga" target="_blank"
-                        class="tw-text-orange-600 tw-hover:text-orange-400">
-                        <svg width="20" height="17" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                          <path
-                            d="M19.807 1.943a8.588 8.588 0 0 1-2.036 2.135 11.918 11.918 0 0 1-.465 3.854 12.085 12.085 0 0 1-1.452 3.177 12.426 12.426 0 0 1-2.318 2.691c-.897.78-1.978 1.402-3.243 1.867-1.265.464-2.618.697-4.06.697-2.27 0-4.348-.618-6.233-1.854.293.034.62.051.98.051 1.885 0 3.565-.588 5.04-1.764a3.915 3.915 0 0 1-2.363-.825 4.038 4.038 0 0 1-1.432-2.039c.276.043.532.064.766.064.36 0 .717-.047 1.068-.14A3.982 3.982 0 0 1 1.73 8.43c-.617-.754-.925-1.63-.925-2.627v-.051c.57.324 1.182.498 1.835.524a4.1 4.1 0.
-                        0 0 1 2.57-.215 3.738-1.526a7.965 7.965 0 0 0 2.595-6.046v-.102a4.074 4.074 0 0 0-1.837-.356z" />
-                        </svg>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://www.linkedin.com/in/stassiga/" target="_blank"
-                        class="tw-text-orange-600 hover:tw-text-orange-400">
-                        <svg width="20" height="20" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                          <path
-                            d="M18 2h-4.586c-.677 0-1.27.266-1.719.719l-.703.703c-.453.453-.719 1.046-.719 1.723v5.172c0 .677.266 1.27.719 1.723l.703.703c.453.453 1.046.719 1.723.719h4.172c.677 0 1.27-.266 1.723-.719l.703-.703c.453-.453.719-1.046.719-1.723v-5.172c0-.677-.266-1.27-.719-1.723l-.703-.703c-.453-.453-1.046-.719-1.723-.719zm-3 2c.552 0 1 .448 1 1v3h-2v-3c0-.552.448-1 1-1zm-4.891.094c-.35.012-.694.125-1.012.344s-.574.531-.625.938v4.625c.031.398.219.766.531 1.062s.637.453 1.031.469h.031c.35-.012.694-.125 1.012-.344s.574-.531.625-.938v-4.625c-.031-.398-.219-.766-.531-1.062s-.637-.453-1.031-.469h-.031zm-5.125.438c-.554 0-1 .446-1 1v4.25c0 .552.446 1 1 1h.281c.258.45.688.781 1.219.781.665 0 1.2-.535 1.219-1.188v-4.125c0-.554-.446-1-1-1h-.281c-.258-.45-.688-.781-1.219-.781zm0 0" />
-                        </svg>
-                      </a>
-                    </li>
+                      <li>
+                        <a href="https://twitter.com/DanielaKoroma" target="_blank" class="tw-text-white">
+                          <svg width="24" height="24" viewBox="0 -4 48 48" version="1.1"
+                            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <title>Twitter-color</title>
+                              <desc>Created with Sketch.</desc>
+                              <defs> </defs>
+                              <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <g id="Color-" transform="translate(-300.000000, -164.000000)" fill="#00AAEC">
+                                  <path
+                                    d="M348,168.735283 C346.236309,169.538462 344.337383,170.081618 342.345483,170.324305 C344.379644,169.076201 345.940482,167.097147 346.675823,164.739617 C344.771263,165.895269 342.666667,166.736006 340.418384,167.18671 C338.626519,165.224991 336.065504,164 333.231203,164 C327.796443,164 323.387216,168.521488 323.387216,174.097508 C323.387216,174.88913 323.471738,175.657638 323.640782,176.397255 C315.456242,175.975442 308.201444,171.959552 303.341433,165.843265 C302.493397,167.339834 302.008804,169.076201 302.008804,170.925244 C302.008804,174.426869 303.747139,177.518238 306.389857,179.329722 C304.778306,179.280607 303.256911,178.821235 301.9271,178.070061 L301.9271,178.194294 C301.9271,183.08848 305.322064,187.17082 309.8299,188.095341 C309.004402,188.33225 308.133826,188.450704 307.235077,188.450704 C306.601162,188.450704 305.981335,188.390033 305.381229,188.271578 C306.634971,192.28169 310.269414,195.2026 314.580032,195.280607 C311.210424,197.99061 306.961789,199.605634 302.349709,199.605634 C301.555203,199.605634 300.769149,199.559408 300,199.466956 C304.358514,202.327194 309.53689,204 315.095615,204 C333.211481,204 343.114633,188.615385 343.114633,175.270495 C343.114633,174.831347 343.106181,174.392199 343.089276,173.961719 C345.013559,172.537378 346.684275,170.760563 348,168.735283"
+                                    id="Twitter"> </path>
+                                </g>
+                              </g>
+                            </g>
+                          </svg>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="https://www.instagram.com/angela.daniela02/" target="_blank" class="tw-text-white">
+                          <svg width="24" height="24" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                              <rect x="2" y="2" width="28" height="28" rx="6" fill="url(#paint0_radial_87_7153)"></rect>
+                              <rect x="2" y="2" width="28" height="28" rx="6" fill="url(#paint1_radial_87_7153)"></rect>
+                              <rect x="2" y="2" width="28" height="28" rx="6" fill="url(#paint2_radial_87_7153)"></rect>
+                              <path
+                                d="M23 10.5C23 11.3284 22.3284 12 21.5 12C20.6716 12 20 11.3284 20 10.5C20 9.67157 20.6716 9 21.5 9C22.3284 9 23 9.67157 23 10.5Z"
+                                fill="white"></path>
+                              <path fill-rule="evenodd" clip-rule="evenodd"
+                                d="M16 21C18.7614 21 21 18.7614 21 16C21 13.2386 18.7614 11 16 11C13.2386 11 11 13.2386 11 16C11 18.7614 13.2386 21 16 21ZM16 19C17.6569 19 19 17.6569 19 16C19 14.3431 17.6569 13 16 13C14.3431 13 13 14.3431 13 16C13 17.6569 14.3431 19 16 19Z"
+                                fill="white"></path>
+                              <path fill-rule="evenodd" clip-rule="evenodd"
+                                d="M6 15.6C6 12.2397 6 10.5595 6.65396 9.27606C7.2292 8.14708 8.14708 7.2292 9.27606 6.65396C10.5595 6 12.2397 6 15.6 6H16.4C19.7603 6 21.4405 6 22.7239 6.65396C23.8529 7.2292 24.7708 8.14708 25.346 9.27606C26 10.5595 26 12.2397 26 15.6V16.4C26 19.7603 26 21.4405 25.346 22.7239C24.7708 23.8529 23.8529 24.7708 22.7239 25.346C21.4405 26 19.7603 26 16.4 26H15.6C12.2397 26 10.5595 26 9.27606 25.346C8.14708 24.7708 7.2292 23.8529 6.65396 22.7239C6 21.4405 6 19.7603 6 16.4V15.6ZM15.6 8H16.4C18.1132 8 19.2777 8.00156 20.1779 8.0751C21.0548 8.14674 21.5032 8.27659 21.816 8.43597C22.5686 8.81947 23.1805 9.43139 23.564 10.184C23.7234 10.4968 23.8533 10.9452 23.9249 11.8221C23.9984 12.7223 24 13.8868 24 15.6V16.4C24 18.1132 23.9984 19.2777 23.9249 20.1779C23.8533 21.0548 23.7234 21.5032 23.564 21.816C23.1805 22.5686 22.5686 23.1805 21.816 23.564C21.5032 23.7234 21.0548 23.8533 20.1779 23.9249C19.2777 23.9984 18.1132 24 16.4 24H15.6C13.8868 24 12.7223 23.9984 11.8221 23.9249C10.9452 23.8533 10.4968 23.7234 10.184 23.564C9.43139 23.1805 8.81947 22.5686 8.43597 21.816C8.27659 21.5032 8.14674 21.0548 8.0751 20.1779C8.00156 19.2777 8 18.1132 8 16.4V15.6C8 13.8868 8.00156 12.7223 8.0751 11.8221C8.14674 10.9452 8.27659 10.4968 8.43597 10.184C8.81947 9.43139 9.43139 8.81947 10.184 8.43597C10.4968 8.27659 10.9452 8.14674 11.8221 8.0751C12.7223 8.00156 13.8868 8 15.6 8Z"
+                                fill="white"></path>
+                              <defs>
+                                <radialGradient id="paint0_radial_87_7153" cx="0" cy="0" r="1"
+                                  gradientUnits="userSpaceOnUse"
+                                  gradientTransform="translate(12 23) rotate(-55.3758) scale(25.5196)">
+                                  <stop stop-color="#B13589"></stop>
+                                  <stop offset="0.79309" stop-color="#C62F94"></stop>
+                                  <stop offset="1" stop-color="#8A3AC8"></stop>
+                                </radialGradient>
+                                <radialGradient id="paint1_radial_87_7153" cx="0" cy="0" r="1"
+                                  gradientUnits="userSpaceOnUse"
+                                  gradientTransform="translate(11 31) rotate(-65.1363) scale(22.5942)">
+                                  <stop stop-color="#E0E8B7"></stop>
+                                  <stop offset="0.444662" stop-color="#FB8A2E"></stop>
+                                  <stop offset="0.71474" stop-color="#E2425C"></stop>
+                                  <stop offset="1" stop-color="#E2425C" stop-opacity="0"></stop>
+                                </radialGradient>
+                                <radialGradient id="paint2_radial_87_7153" cx="0" cy="0" r="1"
+                                  gradientUnits="userSpaceOnUse"
+                                  gradientTransform="translate(0.500002 3) rotate(-8.1301) scale(38.8909 8.31836)">
+                                  <stop offset="0.156701" stop-color="#406ADC"></stop>
+                                  <stop offset="0.467799" stop-color="#6A45BE"></stop>
+                                  <stop offset="1" stop-color="#6A45BE" stop-opacity="0"></stop>
+                                </radialGradient>
+                              </defs>
+                            </g>
+                          </svg>
+                        </a>
+                      </li>
+
+
+                    </ul>
                   </div>
                 </div>
               </div>
@@ -203,8 +422,7 @@
       <div
         class="tw-bg-orange-700 tw-shadow-2xl tw-rounded-md lg:tw-mx-24 tw-mx-8 tw-transform tw--translate-y-20 tw-bottom-0 tw-left-0 tw-px-8 tw-py-12">
         <h1 class="lg:tw-text-4xl tw-text-center tw-text-white tw-text-2xl tw-p-4" data-aos="fade-up">
-          "Think before you toss! Unleash your creativity
-          and give plastic a second life"
+          "Unlock the power of digital growth with JumbaSoft - Where creativity meets strategy, and results meet success."
         </h1>
       </div>
       <!-- end hero -->
@@ -215,16 +433,22 @@
     </section>
 
 
-    <section class="tw-bg-white lg:tw-p-8 pt-0 tw-pb-12 tw-px-8 tw-py-8 tw-mb-4">
+    <section class="tw-bg-white lg:tw-p-12 pt-0 tw-pb-12 tw-px-8 tw-py-8 tw-mb-4">
 
-      <h1 class=" lg:tw-text-6xl  tw-text-3xl text-color tw-px-12 tw-font-extrabold tw-text-black" data-aos="fade-up">
-        Why JumbaSoft?
-      </h1>
+      <div class="tw-px-6 tw-mb-8">
+        <h1 class="tw-mt-2 tw-mb-2 lg:tw-text-6xl tw-text-4xl tw-font-extrabold text-color" data-aos="fade-up">
+          Why JumbaSoft?
+        </h1>
+        <hr class="lg:tw-w-48 tw-w-24 tw-h-2 bg-color tw-my-2" data-aos="fade-up">
 
-      <div class="tw-flex lg:tw-flex-row tw-items-center tw-flex-col tw-justify-between tw-gap-12 lg:tw-p-12">
-        <div class="tw-items-center">
 
-          <div class="tw-flex tw-gap-4">
+      </div>
+
+
+      <div class="lg:tw-p-8">
+        <div class="tw-grid lg:tw-grid-cols-3 tw-gap-8 tw-py-12">
+
+          <div class="tw-shadow-2xl tw-p-4 tw-rounded tw-shadow-orange-600">
             <svg class="tw-rounded-full tw-bg-gray-200 tw-p-4" width="50" version="1.1" id="_x32_"
               xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512"
               xml:space="preserve" fill="#000000">
@@ -239,14 +463,13 @@
               </g>
             </svg>
             <p class="tw-flex tw-flex-col">
-              <span class="tw-text-lg tw-font-bold">Affordable</span>
-              <span>Insights help farmers maximise crop yields</span>
+              <span class="tw-text-lg tw-font-bold text-color">Expertise and Experience</span>
+              <span>We boasts a team of highly skilled professionals with extensive expertise in marketing.</span>
             </p>
-
           </div>
 
 
-          <div class="tw-mt-6 tw-flex tw-gap-4">
+          <div class="tw-shadow-2xl tw-p-4 tw-rounded tw-shadow-orange-600">
             <svg class="tw-rounded-full tw-bg-gray-200 tw-p-4" width="50" viewBox="0 0 48 48"
               xmlns="http://www.w3.org/2000/svg" fill="#000000">
               <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -261,132 +484,93 @@
               </g>
             </svg>
             <p class="tw-flex tw-flex-col">
-              <span class="tw-text-lg tw-font-bold">Sustainable</span>
-              <span>Conducting soil optimization and treatment in advance</span>
+              <span class="tw-text-lg tw-font-bold text-color">Innovative Solutions</span>
+              <span>We thrive on innovation and stay up-to-date with the latest marketing trends, technologies, and
+                strategies</span>
             </p>
 
           </div>
 
-
-          <div class="tw-mt-6 tw-flex tw-gap-4">
-            <svg class="tw-rounded-full tw-bg-gray-200 tw-p-4" width="50" version="1.0" id="Layer_1"
-              xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64"
-              enable-background="new 0 0 64 64" xml:space="preserve" fill="#000000">
+          <div class="tw-shadow-2xl tw-p-4 tw-rounded tw-shadow-orange-600">
+            <svg class="tw-rounded-full tw-bg-gray-200 tw-p-3" width="50" version="1.1" id="Uploaded to svgrepo.com"
+              xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"
+              xml:space="preserve" fill="#000000">
               <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
               <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
               <g id="SVGRepo_iconCarrier">
-                <g>
-                  <path fill="#231F20"
-                    d="M33,1.832V16.05c3.678-0.095,7.227-0.706,10.573-1.775C40.982,9.398,37.362,5.155,33,1.832z"></path>
-                  <path fill="#231F20"
-                    d="M46.361,15.408c2.198,4.789,3.476,10.085,3.613,15.667h14c-0.245-7.968-3.396-15.202-8.439-20.675 C52.73,12.446,49.653,14.141,46.361,15.408z">
-                  </path>
-                  <path fill="#231F20"
-                    d="M45.479,13.606c3.095-1.175,5.99-2.748,8.638-4.646c-5.278-5.051-12.278-8.312-20.035-8.811 C38.809,3.722,42.718,8.313,45.479,13.606z">
-                  </path>
-                  <path fill="#231F20"
-                    d="M49.975,33.075c-0.153,6.246-1.736,12.134-4.438,17.354c3.153,1.134,6.117,2.66,8.846,4.508 c5.71-5.592,9.328-13.303,9.592-21.861H49.975z">
-                  </path>
-                  <path fill="#231F20"
-                    d="M47.975,33.075H33v15.025c3.684,0.091,7.244,0.672,10.615,1.693C46.264,44.78,47.818,39.103,47.975,33.075z ">
-                  </path>
-                  <path fill="#231F20"
-                    d="M31,33.075H16.025c0.156,6.027,1.711,11.705,4.359,16.719c3.371-1.021,6.932-1.603,10.615-1.693V33.075z">
-                  </path>
-                  <path fill="#231F20"
-                    d="M33,62.318c3.844-2.929,7.113-6.569,9.609-10.731c-3.062-0.889-6.282-1.4-9.609-1.486V62.318z"></path>
-                  <path fill="#231F20"
-                    d="M33,31.075h14.975c-0.139-5.346-1.377-10.416-3.504-14.993C40.847,17.271,36.997,17.951,33,18.05V31.075z">
-                  </path>
-                  <path fill="#231F20"
-                    d="M31,18.05c-3.997-0.099-7.848-0.779-11.471-1.968c-2.127,4.577-3.365,9.647-3.504,14.993H31V18.05z">
-                  </path>
-                  <path fill="#231F20"
-                    d="M18.521,13.606c2.761-5.293,6.67-9.885,11.397-13.457c-7.757,0.499-14.757,3.76-20.035,8.812 C12.53,10.859,15.427,12.432,18.521,13.606z">
-                  </path>
-                  <path fill="#231F20"
-                    d="M31,62.318V50.101c-3.327,0.086-6.548,0.598-9.609,1.486C23.887,55.749,27.156,59.391,31,62.318z">
-                  </path>
-                  <path fill="#231F20"
-                    d="M44.559,52.21c-2.683,4.592-6.251,8.599-10.476,11.79c7.156-0.46,13.668-3.271,18.778-7.671 C50.293,54.639,47.512,53.244,44.559,52.21z">
-                  </path>
-                  <path fill="#231F20"
-                    d="M19.441,52.209c-2.953,1.034-5.734,2.429-8.304,4.119c5.11,4.4,11.623,7.212,18.779,7.672 C25.692,60.809,22.124,56.802,19.441,52.209z">
-                  </path>
-                  <path fill="#231F20"
-                    d="M14.025,33.075h-14c0.264,8.559,3.882,16.27,9.592,21.861c2.729-1.848,5.692-3.374,8.846-4.508 C15.762,45.209,14.179,39.321,14.025,33.075z">
-                  </path>
-                  <path fill="#231F20"
-                    d="M31,1.832c-4.362,3.322-7.982,7.566-10.573,12.442c3.347,1.069,6.896,1.681,10.573,1.775V1.832z">
-                  </path>
-                  <path fill="#231F20"
-                    d="M14.025,31.075c0.138-5.582,1.415-10.878,3.613-15.667c-3.292-1.268-6.369-2.962-9.174-5.008 c-5.043,5.473-8.194,12.707-8.439,20.675H14.025z">
-                  </path>
-                </g>
+                <style type="text/css">
+                  .puchipuchi_een {
+                    fill: #111918;
+                  }
+                </style>
+                <path class="puchipuchi_een"
+                  d="M21,24c0,0.552-0.447,1-1,1h-8c-0.553,0-1-0.448-1-1s0.447-1,1-1h8C20.553,23,21,23.448,21,24z M20,26h-8c-0.553,0-1,0.448-1,1s0.447,1,1,1h8c0.553,0,1-0.448,1-1S20.553,26,20,26z M15,29v1c0,0.552,0.448,1,1,1s1-0.448,1-1v-1 H15z M26,11c0,5-5,8-5,10c0,0.552-0.448,1-1,1h-8c-0.552,0-1-0.448-1-1c0-2-5-5-5-10C6,5.477,10.477,1,16,1S26,5.477,26,11z M17,4 c0-0.552-0.447-1-1-1c-4.411,0-8,3.589-8,8c0,0.552,0.447,1,1,1s1-0.448,1-1c0-3.309,2.691-6,6-6C16.553,5,17,4.552,17,4z">
+                </path>
               </g>
             </svg>
             <p class="tw-flex tw-flex-col">
-              <span class="tw-text-lg tw-font-bold">Clean</span>
-              <span>Increasing crop health and quality</span>
+              <span class="tw-text-lg tw-font-bold text-color">Results-Oriented Focus</span>
+              <span>Our ultimate goal at JumbaSoft is to drive measurable results for our clients.</span>
             </p>
 
           </div>
 
         </div>
 
-        <v-img class="tw-rounded-lg tw-shadow-2xl"
-          src="https://img.freepik.com/free-photo/close-up-attractive-carefree-young-woman-sitting-floor_273609-35105.jpg?w=740&t=st=1686560978~exp=1686561578~hmac=2393967ab8379b6651770d9930e8115ce4bbb516d452395781110fc7dd3c7a0e"
-          width="500px"></v-img>
       </div>
 
-      <div class="tw-flex lg:tw-flex-row tw-flex-col tw-items-center tw-gap-4 lg:tw-p-6 tw-p-6">
+      <div class="tw-items-center tw-gap-4 lg:tw-p-6 tw-p-6 tw-mt-4">
         <h1 class="lg:tw-text-6xl text-color tw-text-3xl tw-font-extrabold" data-aos="fade-up">
           What We Stand For?
         </h1>
-
-
-        <v-divider class="tw-my-6 tw-text-white tw-bg-gray-900"></v-divider>
+        <hr class="lg:tw-w-48 tw-w-24 tw-h-2 bg-color tw-my-2" data-aos="fade-up">
       </div>
 
       <div
         class="tw-flex tw-flex-col lg:tw-flex-row tw-gap-6 lg:tw-gap-8 md:tw-gap-8 tw-container lg:tw-p-8 tw-p-4 lg:tw-justify-center tw-items-center tw-w-full">
-        <!-- History -->
+
         <div
-          class="tw-flex tw-shadow-2xl tw-rounded-lg tw-bg-gray-300 tw-block tw-p-6  tw-cursor-pointer tw-flex-col tw-items-center tw-justify-center lg:tw-w-1/3"
+          class="tw-flex tw-shadow-2xl tw-shadow-orange-600 tw-rounded-lg tw-bg-white tw-block tw-p-6  tw-cursor-pointer tw-flex-col tw-items-center tw-justify-center lg:tw-w-1/3"
           data-aos="fade-up">
           <div class="tw-p-3 tw-mb-2">
             <img class="" width="600" src="../assets/goal.png">
           </div>
-          <h3 class="tw-text-xl tw-font-extrabold tw-mb-2 tw-text-black">Our Goal</h3>
+          <h3 class="tw-text-xl tw-font-extrabold tw-mb-2 text-color">Our Goal</h3>
           <p class="tw-text-sm tw-font-medium tw-text-black tw-text-justify tw-text-center tw-max-w-sm">
-            To become the leading provider of sustainable plastic waste management solutions in Africa, by reducing the
-            number of plastic bottles sent to landfills by 50% at the of 2030.
+            Our goal is to empower businesses through our expertise in digital marketing strategies and web development
+            solutions. We are committed to delivering measurable results, allowing our clients to exceed their objectives
+            in an ever-evolving digital environment. Our ultimate aim is to establish ourselves as the trusted partner of
+            choice, supporting businesses in their growth and success.
           </p>
         </div>
-        <!-- Achievement -->
+
         <div
-          class="tw-flex tw-shadow-2xl tw-rounded-lg tw-bg-gray-300 tw-block tw-cursor-pointer tw-p-6  tw-flex-col tw-items-center tw-justify-center lg:tw-w-1/3"
+          class="tw-flex tw-shadow-2xl tw-shadow-orange-600 tw-rounded-lg tw-bg-white tw-block tw-cursor-pointer tw-p-6  tw-flex-col tw-items-center tw-justify-center lg:tw-w-1/3"
           data-aos="fade-up">
           <div class=" tw-p-3 tw-mb-2">
             <img class="" width="600" src="../assets/mission.png">
           </div>
-          <h3 class="tw-text-xl tw-font-extrabold tw-text-black tw-mb-2">Our Mission</h3>
+          <h3 class="tw-text-xl tw-font-extrabold text-color tw-mb-2">Our Mission</h3>
           <p class="tw-text-sm tw-font-medium tw-text-black tw-text-center tw-max-w-sm tw-text-justify">
-            Reduce plastic waste and promote a circular economy through partnerships, collection, recycling and
-            repurposing of plastic bottles, while raising environmental awareness.
+            At JumbaSoft, our mission is to empower businesses with cutting-edge digital marketing strategies and
+            groundbreaking web development solutions. We are relentless in our dedication to delivering tangible and
+            quantifiable outcomes, enabling our esteemed clients to surpass their objectives within the dynamic and
+            ever-transforming digital domain.
           </p>
         </div>
         <!-- Vision -->
         <div
-          class="tw-flex tw-shadow-2xl tw-rounded-lg tw-bg-gray-300 tw-block tw-cursor-pointer tw-p-6 tw-flex-col tw-items-center tw-justify-center lg:tw-w-1/3"
+          class="tw-flex tw-shadow-2xl tw-shadow-orange-600 tw-rounded-lg tw-bg-white tw-block tw-cursor-pointer tw-p-6 tw-flex-col tw-items-center tw-justify-center lg:tw-w-1/3"
           data-aos="fade-up">
           <div class=" tw-p-3 tw-mb-2">
             <img class="" width="600" src="../assets/vision.png">
           </div>
-          <h3 class="tw-text-xl tw-font-extrabold tw-text-black tw-mb-2">Our Vision</h3>
+          <h3 class="tw-text-xl tw-font-extrabold text-color tw-mb-2">Our Vision</h3>
           <p class="tw-text-sm tw-font-medium tw-text-black tw-text-center tw-max-w-sm tw-text-justify">
-            Provide the best plastic waste management services to Africa and the rest of the world, to preserve the
-            environment and its population. We strive to make a positive impact
+            Our unwavering vision is to become the unwavering ally and preferred partner for businesses, propelling their
+            triumphs and expansion. We aim to achieve this by leveraging our profound expertise, unyielding determination,
+            and ethical approach. By consistently providing exceptional services, we aspire to be the go-to choice for
+            businesses seeking to thrive in the digital landscape.
           </p>
         </div>
       </div>
@@ -397,20 +581,25 @@
 
     <section class="tw-w-full tw-h-full lg:tw-p-8 lg:tw-pb-12 tw-p-4">
 
-      <h1 class=" lg:tw-text-6xl tw-text-4xl tw-font-extrabold text-color tw-px-4" data-aos="fade-up">
-        Our Services
-      </h1>
+      <div class="tw-px-6">
+        <h1 class=" lg:tw-text-6xl tw-text-4xl tw-font-extrabold text-color" data-aos="fade-up">
+          Our Services
+        </h1>
+        <hr class="lg:tw-w-48 tw-w-24 tw-h-2 bg-color tw-my-2" data-aos="fade-up">
+      </div>
 
-      <div class="tw-px-4 lg:tw-pb-12 tw-pt-8 tw-grid lg:tw-grid-cols-3 tw-gap-4 lg:tw-gap-0 tw-w-full tw-h-full">
+
+      <div class="lg:tw-pb-12 tw-pt-8 tw-grid lg:tw-grid-cols-4 tw-gap-4 lg:tw-gap-0 tw-w-full tw-h-full">
 
         <div class=" tw-h-full tw-bg-white tw-block tw-cursor-pointer tw-w-full tw-shadow-sm tw-shadow-indigo-100">
           <div
             class="tw-relative tw-w-full tw-h-96 hover:tw-shadow-orange-700 hover:tw-shadow-xl hover:tw-border-b-14 hover:tw-border-orange-700 hover:tw-ease-out  hover:tw-transition-all hover:tw-rounded">
             <img class="tw-absolute tw-top-0 tw-left-0 tw-w-full tw-h-full tw-object-cover"
-              src="https://dotterra.netlify.app/static/media/soil.535488db91bb4bf12239.jpg" alt="Banner Image">
+              src="https://img.freepik.com/free-photo/corporate-management-strategy-solution-branding-concept_53876-167088.jpg?w=740&t=st=1687374457~exp=1687375057~hmac=dcdd2d0abfa37541021572261996114f825321a316f3a7161f378fb786d9ea0e"
+              alt="Banner Image">
             <div
               class="tw-relative tw-w-full tw-h-full tw-flex tw-flex-col tw-justify-end tw-items-center tw-bg-gray-900 tw-bg-opacity-30">
-              <h1 class="tw-text-4xl tw-font-bold tw-text-white tw-py-4" data-aos="fade-up">Technology</h1>
+              <h1 class="tw-text-2xl tw-font-bold tw-text-white tw-py-4" data-aos="fade-up">Digital Marketing</h1>
             </div>
           </div>
 
@@ -420,11 +609,25 @@
           <div
             class="tw-relative tw-w-full tw-h-96 hover:tw-shadow-orange-700 hover:tw-shadow-xl hover:tw-border-b-14 hover:tw-border-orange-700 hover:tw-ease-out  hover:tw-transition-all hover:tw-rounded">
             <img class="tw-absolute tw-top-0 tw-left-0 tw-w-full tw-h-full tw-object-cover"
-              src="https://img.freepik.com/premium-photo/creative-light-bulb-explodes-with-colorful-paint-splashes-black-background-think-differently-creative-idea-concept_338491-19427.jpg?w=740"
+              src="https://img.freepik.com/premium-photo/graphic-design-studio_72104-935.jpg?w=740" alt="Banner Image">
+            <div
+              class="tw-relative tw-w-full tw-h-full tw-flex tw-flex-col tw-justify-end tw-items-center tw-bg-gray-900 tw-bg-opacity-30">
+              <h1 class="tw-text-2xl tw-font-bold tw-text-white tw-py-4" data-aos="fade-up">Graphic Design</h1>
+            </div>
+          </div>
+
+
+        </div>
+
+        <div class="tw-cursor-pointer tw-bg-white tw-block tw-w-full tw-shadow-sm tw-shadow-indigo-100">
+          <div
+            class="tw-relative tw-w-full tw-h-96 hover:tw-shadow-orange-700 hover:tw-shadow-xl hover:tw-border-b-14 hover:tw-border-orange-700 hover:tw-ease-out  hover:tw-transition-all hover:tw-rounded">
+            <img class="tw-absolute tw-top-0 tw-left-0 tw-w-full tw-h-full tw-object-cover"
+              src="https://img.freepik.com/premium-psd/four-app-ui-mockup-top-angle-view_173079-442.jpg?w=740"
               alt="Banner Image">
             <div
               class="tw-relative tw-w-full tw-h-full tw-flex tw-flex-col tw-justify-end tw-items-center tw-bg-gray-900 tw-bg-opacity-30">
-              <h1 class="tw-text-4xl tw-font-bold tw-text-white tw-py-4" data-aos="fade-up">Innovation</h1>
+              <h1 class="tw-text-2xl tw-font-bold tw-text-white tw-py-4" data-aos="fade-up">UX/UI Design</h1>
             </div>
           </div>
 
@@ -436,10 +639,11 @@
             class="tw-relative tw-overflow-hidden tw-bg-cover tw-bg-no-repeat tw-w-full tw-h-96 hover:tw-shadow-orange-700 hover:tw-shadow-xl hover:tw-border-b-14 hover:tw-border-orange-700 hover:tw-ease-out  hover:tw-transition-all hover:tw-rounded">
             <img
               class="tw-absolute tw-top-0 tw-left-0 tw-w-full tw-h-full tw-object-cover hover:tw-transition hover:tw-duration-300 hover:tw-ease-in-out hover:tw-scale-110"
-              src="../assets/sustainability.png" alt="Banner Image">
+              src="https://img.freepik.com/premium-photo/programming-background-with-person-working-with-codes-computer_23-2150010150.jpg?w=740"
+              alt="Banner Image">
             <div
               class="tw-relative tw-w-full tw-h-full tw-flex tw-flex-col tw-justify-end tw-items-center tw-bg-gray-900 tw-bg-opacity-30">
-              <h1 class="tw-text-4xl tw-font-bold tw-text-white tw-py-4" data-aos="fade-up">Sustainability</h1>
+              <h1 class="tw-text-2xl tw-font-bold tw-text-white tw-py-4" data-aos="fade-up">Web Development</h1>
             </div>
           </div>
 
@@ -453,21 +657,30 @@
 
 
 
-    <section class="tw-bg-white lg:tw-p-12 tw-pb-12 tw-px-8 tw-py-8 tw-mb-4">
+    <section class="tw-bg-white lg:tw-p-12 tw-pb-12 tw-px-4 tw-py-8 tw-mb-4">
 
-      <h1 class="lg:tw-text-6xl tw-p-4  tw-text-6xl text-color lg:tw-mx-24 tw-font-extrabold tw-text-black"
-        data-aos="fade-up">
-        Careers
-      </h1>
+      <div class="tw-px-6 tw-mb-4 ">
+        <h1 class=" lg:tw-text-6xl tw-text-4xl tw-font-extrabold text-color" data-aos="fade-up">
+          Careers
+        </h1>
+        <hr class="lg:tw-w-48 tw-w-24 tw-h-2 bg-color tw-my-2" data-aos="fade-up">
+      </div>
 
-      <div class="tw-p-4 tw-mt-12 lg:tw-mx-24 lg:tw-w-3/4">
-        <h1 class=" lg:tw-text-6xl tw-mb-4 tw-text-3xl tw-font-extrabold tw-text-black" data-aos="fade-up">
+      <div class="tw-flex tw-flex-col lg:tw-flex-row lg:tw-p-8">
+
+        <v-img class="tw-rounded-lg tw-shadow-2xl tw-shadow-white tw-cursor-pointer"
+          src="https://img.freepik.com/free-photo/portrait-handsome-african-black-young-business-man-working-laptop-office-desk_231208-680.jpg?w=740&t=st=1687375475~exp=1687376075~hmac=a89af287fe8ff84fb41aab7f82eda270a361de7c2fe007dcdbfa76ff15e07f3d"
+          width="500px"></v-img>
+      
+
+      <div class="tw-p-4 lg:tw-pt-0 lg:tw-mx-12">
+        <h1 class=" lg:tw-text-4xl tw-mb-4 tw-text-3xl tw-font-extrabold tw-text-black" data-aos="fade-up">
           Transform Your Professional Journey!
 
         </h1>
 
 
-        <span class="tw-mt-12 tw-text-justify lg:tw-w-1/2" data-aos="fade-up">
+        <span class="tw-mt-12 tw-text-justify" data-aos="fade-up">
           With the use of cutting-edge technology, we strive to save the environment. We encourage personal development
           and provide a welcoming workplace. You'll be a part of a vibrant, complementing team with a wealth of
           knowledge, including yourself! We all appreciate low hierarchies, science, and brainstorming. You will
@@ -517,7 +730,7 @@
         </div>
 
 
-
+      </div>
 
       </div>
 
@@ -726,4 +939,5 @@ button {
 
 .fadeIn {
   animation-name: fadeIn;
-}</style>
+}
+</style>
