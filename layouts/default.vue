@@ -104,15 +104,16 @@
           <v-col class="tw-mt-8" cols="12" md="3" lg="3">
             <h3 class="tw-text-white tw-font-extrabold tw-mb-4">Contact Us</h3>
             <p class="tw-text-white tw-text-md">
-              <span class="tw-mb-12"><strong>Location:</strong> Pamplemousses, Mauritius</span><br>
-
-              <span class="tw-mb-12"><strong>Hours:</strong>
-                Tue – Thu
-                7:30AM – 5:30PM</span> <br />
-              <a href="mailto:info@JumbaSoft.net" class="tw-text-white tw-mb-8">
+              <span class="tw-mb-12"><strong>Location:</strong> Accra, Ghana</span><br>
+              <a href="mailto:info@Jumbasoft.net" class="tw-text-white tw-mb-8">
                 <strong>Email:</strong>
-                info@dotterra.net</a><br />
-              <a href="tel:+250-784-206-989" class="tw-text-white tw-mb-8"><strong>Tel:</strong> +250 784 206 989</a>
+                info@Jumbasoft.net</a><br />
+              <a href="tel:+233-53-124-2989" class="tw-text-white tw-mb-8"><strong>Ghana Tel:</strong> 
+                +233 53 124 2989
+              </a><br />
+              <a href="tel:+250-785-658-174" class="tw-text-white tw-mb-8"><strong>Rwanda Tel:</strong> 
+                +250 785 658 174
+              </a>
             </p>
           </v-col>
           <v-col class="tw-mt-8" cols="12" md="6" lg="3">
@@ -235,7 +236,7 @@
           
         <v-divider class="tw-my-4 tw-text-white tw-bg-white"></v-divider>
         <div class="tw-text-center tw-text-white">
-          <p>&copy; 2023 DotTerra. All rights reserved</p>
+          <p>&copy; 2023 JumbaSoft. All rights reserved</p>
         </div>
 
 
