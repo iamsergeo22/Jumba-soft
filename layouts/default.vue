@@ -37,34 +37,35 @@
               class="text-black font-medium	hover:text-orange-800 text-md hover:no-underline">Projects</nuxt-link>
           </li>
 
-         <!--  <li @click="closeMenu">
+          <!--  <li @click="closeMenu">
             <nuxt-link to="/contact" :class="$route.path === '/contact' ? 'active' : ''"
               class="text-black font-medium	hover:text-orange-800 text-md hover:no-underline">Contact</nuxt-link>
           </li> -->
           <div class="lg:tw-hidden tw-block" @click="closeMenu">
-          <button @click="$router.push('/contact')"
-            class="tw-group tw-relative tw-border-2 tw-h-12 tw-cursor-pointer hover:tw-transform hover:tw-translate-x-2 hover:tw-transition-transform hover:tw-duration-300 hover:tw-shadow-orange-600 tw-border hover:tw-shadow-lg tw-w-48 tw-overflow-hidden tw-rounded-lg tw-bg-white tw-text-lg tw-shadow-2xl">
-            <div
-              class="tw-absolute tw-inset-0 tw-w-3 tw-bg-orange-700 tw--transition-all tw-duration-[250ms] tw-ease-out group-hover:tw-w-full">
-            </div>
-            <span class="tw-relative tw-inline-flex tw-items-center text-md tw-gap-2 tw-text-black group-hover:tw-text-white">
-              Send a request
-              <svg class="tw-w-5 tw-h-5 tw--transition-all tw-duration-[250ms] tw-ease-out" fill="none"
-                stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3">
-                </path>
-              </svg>
-            </span>
-          </button>
-        </div>
+            <button @click="$router.push('/contact')"
+              class="tw-group tw-relative tw-border-2 tw-h-12 tw-cursor-pointer hover:tw-transform hover:tw-translate-x-2 hover:tw-transition-transform hover:tw-duration-300 hover:tw-shadow-orange-600 tw-border hover:tw-shadow-lg tw-w-48 tw-overflow-hidden tw-rounded-lg tw-bg-white tw-text-lg tw-shadow-2xl">
+              <div
+                class="tw-absolute tw-inset-0 tw-w-3 tw-bg-orange-700 tw--transition-all tw-duration-[250ms] tw-ease-out group-hover:tw-w-full">
+              </div>
+              <span
+                class="tw-relative tw-inline-flex tw-items-center text-md tw-gap-2 tw-text-black group-hover:tw-text-white">
+                Send a request
+                <svg class="tw-w-5 tw-h-5 tw--transition-all tw-duration-[250ms] tw-ease-out" fill="none"
+                  stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3">
+                  </path>
+                </svg>
+              </span>
+            </button>
+          </div>
 
-        <button @click="$router.push('/contact')"
-            class="tw-group lg:tw-block tw-hidden tw-relative tw-border-2 tw-h-12 tw-mt-4 tw-cursor-pointer hover:tw-transform hover:tw-translate-x-2 hover:tw-transition-transform hover:tw-duration-300 hover:tw-shadow-orange-600 tw-border hover:tw-shadow-lg tw-w-48 tw-overflow-hidden tw-rounded-lg tw-bg-white tw-text-lg tw-shadow-2xl">
+          <button @click="$router.push('/contact')"
+            class="tw-group lg:tw-block tw-hidden tw-relative tw-border-2 tw-h-12 tw-mt-4 tw-cursor-pointer hover:tw-transform hover:tw-translate-x-2 hover:tw-transition-transform tw-shadow-orange-700  hover:tw-duration-300 hover:tw-shadow-orange-600 tw-border hover:tw-shadow-lg tw-w-48 tw-overflow-hidden tw-rounded-lg tw-bg-white tw-text-lg tw-shadow-2xl">
             <div
               class="tw-absolute tw-inset-0 tw-w-3 tw-bg-orange-700 tw--transition-all tw-duration-[250ms] tw-ease-out group-hover:tw-w-full">
             </div>
             <span class="tw-relative tw-inline-flex tw-items-center tw-gap-2 tw-text-black group-hover:tw-text-white">
-              Send a request
+              Contact Us
               <svg class="tw-w-5 tw-h-5 tw--transition-all tw-duration-[250ms] tw-ease-out" fill="none"
                 stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3">
@@ -90,12 +91,12 @@
 
         <v-row class="">
 
-          <v-col  class="tw-text-left tw-mt-8" cols="12" md="3" lg="3">
+          <v-col class="tw-text-left tw-mt-8" cols="12" md="3" lg="3">
             <nuxt-link to="/">
-            <h1 class="tw-text-4xl tw-font-extrabold tw-mb-4 tw-text-orange-600">
-              JumbaSoft
-            </h1>
-          </nuxt-link>
+              <h1 class="tw-text-4xl tw-font-extrabold tw-mb-4 tw-text-orange-600">
+                JumbaSoft
+              </h1>
+            </nuxt-link>
             <p class="tw-text-white tw-text-md tw-justify-center">
               Every image featured on this website has been designed using Canvas.
             </p>
@@ -108,10 +109,10 @@
               <a href="mailto:info@Jumbasoft.net" class="tw-text-white tw-mb-8">
                 <strong>Email:</strong>
                 info@Jumbasoft.net</a><br />
-              <a href="tel:+233-53-124-2989" class="tw-text-white tw-mb-8"><strong>Ghana Tel:</strong> 
+              <a href="tel:+233-53-124-2989" class="tw-text-white tw-mb-8"><strong>Ghana Tel:</strong>
                 +233 53 124 2989
               </a><br />
-              <a href="tel:+250-785-658-174" class="tw-text-white tw-mb-8"><strong>Rwanda Tel:</strong> 
+              <a href="tel:+250-785-658-174" class="tw-text-white tw-mb-8"><strong>Rwanda Tel:</strong>
                 +250 785 658 174
               </a>
             </p>
@@ -233,7 +234,7 @@
           </v-col>
         </v-row>
 
-          
+
         <v-divider class="tw-my-4 tw-text-white tw-bg-white"></v-divider>
         <div class="tw-text-center tw-text-white">
           <p>&copy; 2023 JumbaSoft. All rights reserved</p>
@@ -264,6 +265,17 @@ export default {
 
   mounted() {
     this.showDialog = true;
+
+    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+    (function () {
+      var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+      s1.async = true;
+      s1.src = 'https://embed.tawk.to/64a18af194cf5d49dc611063/1h4bgdgeo';
+      s1.charset = 'UTF-8';
+      s1.setAttribute('crossorigin', '*');
+      s0.parentNode.insertBefore(s1, s0);
+    })();
+
   },
   data() {
     return {
@@ -401,4 +413,5 @@ button:hover {
 
 .fadeIn {
   animation-name: fadeIn;
-}</style>
+}
+</style>

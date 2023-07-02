@@ -174,7 +174,7 @@
 
           </div>
           <v-img class="tw-rounded-lg tw-shadow-2xl tw-mt-4"
-            src="https://img.freepik.com/free-photo/close-up-attractive-carefree-young-woman-sitting-floor_273609-35105.jpg?w=740&t=st=1686560978~exp=1686561578~hmac=2393967ab8379b6651770d9930e8115ce4bbb516d452395781110fc7dd3c7a0e"
+            src="https://img.freepik.com/premium-photo/client-support-service-contact-us-feedback-desktop-with-notepad-various-feedback-icons-top-view_262193-2192.jpg?w=740"
             width="550px"></v-img>
 
         </div>
@@ -183,11 +183,9 @@
 
     </div>
 
-    <div class="tw-mt-4 lg:tw-px-8 tw-pb-4 tw-aspect-w-16 tw-aspect-h-7 tw-overflow-hidden" data-aos="fade-up">
-
-      <iframe class="tw-shadow-2xl tw-rounded-lg"
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63800.26059361784!2d30.057428788649723!3d-1.94642533671203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dca5a86d814c61%3A0x7d3b83e12b1c11a9!2sNorrsken%20House%20Kigali!5e0!3m2!1sfr!2srw!4v1684802051331!5m2!1sfr!2srw"
-        width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <div class="tw-mt-4 tw-px-8 tw-pb-4 tw-aspect-w-16 tw-aspect-h-7 tw-overflow-hidden" data-aos="fade-up">
+      <iframe class="tw-shadow-2xl tw-rounded-lg" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1016183.7069990761!2d-0.4768382096170446!3d5.789428263419855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdf9084b2b7a773%3A0x53c6d6cf4fd80661!2sGrand%20Accra%2C%20Ghana!5e0!3m2!1sfr!2srw!4v1688305901053!5m2!1sfr!2srw"  width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      
     </div>
 
   </div>

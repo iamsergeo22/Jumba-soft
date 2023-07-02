@@ -17,7 +17,7 @@
         <h1 class="tw-text-2xl tw-font-bold tw-mb-8 text-color tw-text-left">Web Developement</h1>
 
         <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 lg:tw-grid-cols-3 tw-gap-2">
-          <div class="tw-bg-white tw-shadow-orange-700  tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
+          <div class="tw-bg-white  tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
             <img src="../assets/img/Kenaya-capt-1.png" alt="" class="tw-w-full tw-h-72">
             <div class="tw-p-6">
               <h2 class="tw-text-lg tw-font-bold tw-mb-4 text-color">Kenaya Finance</h2>
@@ -40,7 +40,7 @@
               <a href="https://kenayafinance.ova-africa.com/" class="tw-block tw-mt-4 tw-text-orange-400 tw-hover:text-orange-600 tw-font-bold">View project</a>
             </div>
           </div>
-          <div class="tw-bg-white tw-shadow-orange-700 tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
+          <div class="tw-bg-white tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
             <img src="../assets/img/ms-implant.png" alt="" class="tw-w-full tw-h-72">
             <div class="tw-p-6">
               <h2 class="tw-text-lg tw-font-bold tw-mb-4 text-color">MS implant</h2>
@@ -64,7 +64,7 @@
               <a href="https://msdemo.ova-africa.com/" class="tw-block tw-mt-4 tw-text-orange-400 tw-hover:text-orange-600 tw-font-bold">View project</a>
             </div>
           </div>
-          <div class="tw-bg-white tw-shadow-orange-700 tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
+          <div class="tw-bg-white tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
             <img src="../assets/img/sheba.png" alt="" class="tw-w-full tw-h-72">
             <div class="tw-p-6">
               <h2 class="tw-text-lg tw-font-bold tw-mb-4 text-color">Sheba Plastic</h2>
@@ -93,39 +93,39 @@
       <h1 class="tw-text-2xl tw-mt-8 tw-font-bold tw-mb-8 text-color tw-text-left">UX/UI Design</h1>
 
         <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 lg:tw-grid-cols-3 tw-gap-2">
-          <div class="tw-bg-white tw-shadow-orange-700  tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
+          <div class="tw-bg-white  tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
             <img src="../assets/img/togo.png" alt="" class="tw-w-full tw-h-96">
             <div class="tw-p-6">
               <h2 class="tw-text-lg tw-font-bold tw-mb-4 text-color">Gouv Togo</h2>
             </div>
           </div>
-          <div class="tw-bg-white tw-shadow-orange-700 tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
+          <div class="tw-bg-white tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
             <img src="../assets/img/menu.png" alt="" class="tw-w-full tw-h-96">
             <div class="tw-p-6">
               <h2 class="tw-text-lg tw-font-bold tw-mb-4 text-color">Restaurant Menu</h2>
             </div>
           </div>
-          <div class="tw-bg-white tw-shadow-orange-700 tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
+          <div class="tw-bg-white tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
             <img src="../assets/img/labelle-charlie.jpg" alt="" class="tw-w-full tw-h-96">
             <div class="tw-p-6">
               <h2 class="tw-text-lg tw-font-bold tw-mb-4 text-color">Labelle Charlie</h2>              
             </div>
           </div>
-          <div class="tw-bg-white tw-shadow-orange-700 tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
+          <div class="tw-bg-white tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
             <img src="../assets/img/aman-computer.jpg" alt="" class="tw-w-full tw-h-96">
             <div class="tw-p-6">
               <h2 class="tw-text-lg tw-font-bold tw-mb-4 text-color">Aman Computer</h2>              
             </div>
           </div>
 
-          <div class="tw-bg-white tw-shadow-orange-700 tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
+          <div class="tw-bg-white tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
             <img src="../assets/img/ngende.jpg" alt="" class="tw-w-full tw-h-96">
             <div class="tw-p-6">
               <h2 class="tw-text-lg tw-font-bold tw-mb-4 text-color">Ndengue</h2>              
             </div>
           </div>
 
-          <div class="tw-bg-white tw-shadow-orange-700 tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
+          <div class="tw-bg-white tw-shadow-lg tw-rounded-lg tw-overflow-hidden">
             <img src="../assets/img/provert.jpg" alt="" class="tw-w-full tw-h-96">
             <div class="tw-p-6">
               <h2 class="tw-text-lg tw-font-bold tw-mb-4 text-color">Provert</h2>              
